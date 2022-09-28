@@ -16,8 +16,8 @@
  Odatda klasslarning nomi o’zgarmas, undan yaratilgan obyektlar esa istalgancha nomlanishi mumkin."""
 
 
-# x = 10
-# print(type(x))      # <class 'int'>
+ x = 10
+ print(type(x))      # <class 'int'>
 # matn = "salom"
 # print(type(matn))   # <class 'str'>
 
